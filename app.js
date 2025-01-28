@@ -21,7 +21,6 @@ app.get("/", (req, res) => {
     res.send("Back funcionando correctamente");
 });
 
-export default app;
-
+export default app; 
 
 
