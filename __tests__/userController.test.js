@@ -15,7 +15,7 @@ describe("Pruebas de los controladores de los usuarios", () => {
 
     // Limpiar base de datos antes de cada prueba 
     beforeEach(async () => {
-        await  userModel.deleteMany({}); // Con esto le estasmos diciendo que borre todo lo de la DB(dataBase)
+        await  userModel.deleteMany({}); // Con esto le estamos diciendo que borre todo lo de la DB(dataBase)
     });
 
     // Cerrar la conexion a mongoDB despues de todas las pruebas 
