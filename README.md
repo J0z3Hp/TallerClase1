@@ -59,7 +59,7 @@
 Este proyecto fue desarrollado como material educativo para estudiantes de BIT +. Si tienes preguntas o sugerencias, no dudes en contactarme.  
 
 - **Autor:** Luisa Castaño Vanegas
-- **GitHub:** [LuisaCastano40](https://github.com/LuisaCastano40)  
-- **LinkedIn:** [Perfil de linkedIn](https://www.linkedin.com/in/luisacastanovanegas/) 
+- **GitHub:** [J0z3Hp](https://github.com/J0z3Hp)  
+- **LinkedIn:** [Perfil de linkedIn](https://www.linkedin.com/in/jose-luis-mari%C3%B1o-web-developer/) 
 
-¡Explora los ejemplos y adapta las soluciones a tus propios proyectos!
+
