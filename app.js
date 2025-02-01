@@ -25,7 +25,8 @@ app.use(express.json());
 app.use('/usuarios', usersRouter);
 app.use('/iniciarSesion', loginRouter);
 
-// Vamos a hacer la peticion de la ruta de la carpeta public
+// Vamos a hacer la peticion de la ruta de la carpeta public para que se muestra el front
+// Servir archivos estáticos desde la carpeta "public"
 app.use(express.static(path.join(__dirname, "public")));
 
 // Configuración de la ruta de la página principal
